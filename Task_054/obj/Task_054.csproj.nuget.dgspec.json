@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\annit\\OneDrive\\Рабочий стол\\GeekBrains\\C#\\21.02.23_Homework\\Task_054\\Task_054.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\annit\\OneDrive\\Рабочий стол\\GeekBrains\\C#\\21.02.23_Homework\\Task_054\\Task_054.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\annit\\OneDrive\\Рабочий стол\\GeekBrains\\C#\\21.02.23_Homework\\Task_054\\Task_054.csproj",
+        "projectName": "Task_054",
+        "projectPath": "C:\\Users\\annit\\OneDrive\\Рабочий стол\\GeekBrains\\C#\\21.02.23_Homework\\Task_054\\Task_054.csproj",
+        "packagesPath": "C:\\Users\\annit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\annit\\OneDrive\\Рабочий стол\\GeekBrains\\C#\\21.02.23_Homework\\Task_054\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\annit\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
